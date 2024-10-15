@@ -5,11 +5,10 @@ Welcome to my deep learning projects repository! Here, you will find three origi
 ## 1. Deep Learning Architecture
 
 **Description:**  
-The *Deep Learning Architecture* project allows users to create an interactive neural network architecture by defining the number of neurons in each layer. This hands-on approach enhances understanding of neural network structures and offers insights into how different configurations impact model performance.
+The project is a deep learning architecture developed from scratch that allows users to create an interactive neural network architecture by defining the number of neurons in each layer. This hands-on approach enhances understanding of neural network structures and offers insights into how different configurations impact model performance.
 
 **Features:**
 - Interactive interface for architecture customization.
-- Implementation of various activation functions.
 - Ability to train and test the network on simple datasets.
 
 ## 2. Supply Chain Deep Learning Model
